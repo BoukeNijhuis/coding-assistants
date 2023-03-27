@@ -1,4 +1,4 @@
-package codewhisperer;
+package copilot;
 
 class PrimeNumberGenerator {
 

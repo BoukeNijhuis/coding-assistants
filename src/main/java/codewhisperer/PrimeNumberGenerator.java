@@ -1,6 +1,6 @@
-package chatgpt;
+package codewhisperer;
 
-public class PrimeNumberGenerator {
+class PrimeNumberGenerator {
 
     /**
      * Generate prime numbers up to a given number.

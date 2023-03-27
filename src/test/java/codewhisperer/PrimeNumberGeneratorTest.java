@@ -1,0 +1,5 @@
+package codewhisperer;
+
+class PrimeNumberGeneratorTest {
+
+}

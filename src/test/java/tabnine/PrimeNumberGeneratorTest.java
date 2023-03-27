@@ -1,0 +1,5 @@
+package tabnine;
+
+class PrimeNumberGeneratorTest {
+
+}

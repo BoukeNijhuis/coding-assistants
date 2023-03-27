@@ -1,0 +1,5 @@
+- enable tabnine
+- disable all others
+- login to https://chat.openai.com/
+- clean chatGPT
+- nothing to commit?

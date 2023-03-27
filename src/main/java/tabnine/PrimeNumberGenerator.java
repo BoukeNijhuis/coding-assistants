@@ -1,4 +1,4 @@
-package codewhisperer;
+package tabnine;
 
 class PrimeNumberGenerator {
 
