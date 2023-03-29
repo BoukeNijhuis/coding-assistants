@@ -1,5 +1,0 @@
-package copilot;
-
-class PrimeNumberGeneratorTest {
-
-}

@@ -1,6 +1,6 @@
-package chatgpt;
+package com.example;
 
-public class PrimeNumberGenerator {
+public class PrimeNumberGeneratorCopilot {
 
     /**
      * Generate prime numbers up to a given number.

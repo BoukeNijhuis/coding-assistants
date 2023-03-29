@@ -1,6 +1,6 @@
-package tabnine;
+package com.example;
 
-class PrimeNumberGenerator {
+public class PrimeNumberGeneratorCodeWhisperer {
 
     /**
      * Generate prime numbers up to a given number.
@@ -8,3 +8,4 @@ class PrimeNumberGenerator {
      */
 
 }
+
